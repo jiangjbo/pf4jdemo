@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app_main.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app_test.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pf4jdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/pf4jdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin1.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin1.iml" group="plugins/plugin1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugin1/plugin1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugin1/plugin1_main.iml" group="plugins/plugin1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugin1/plugin1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugin1/plugin1_test.iml" group="plugins/plugin1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin2.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin2.iml" group="plugins/plugin2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugin2/plugin2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugin2/plugin2_main.iml" group="plugins/plugin2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugin2/plugin2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugin2/plugin2_test.iml" group="plugins/plugin2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins.iml" group="plugins" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugins_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugins_main.iml" group="plugins" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/plugins_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/plugins_test.iml" group="plugins" />
+    </modules>
+  </component>
+</project>

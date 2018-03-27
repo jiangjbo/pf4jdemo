@@ -1,0 +1,9 @@
+rootProject.name = 'pf4jdemo'
+include 'api'
+include 'app'
+include 'plugins'
+include 'plugins:plugin1'
+findProject(':plugins:plugin1')?.name = 'plugin1'
+include 'plugins:plugin2'
+findProject(':plugins:plugin2')?.name = 'plugin2'
+
